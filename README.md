@@ -2,7 +2,7 @@
 
 Skillbox — a self-hosted, versioned skills library for AI agents (MCP server, scoped client keys). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/ixMf60)
 
 Upstream: [kitze/skillbox](https://github.com/kitze/skillbox) (MIT) at commit `dfc974f` (Nov 13, 2026), built from upstream's own Dockerfile, app unmodified.
 
